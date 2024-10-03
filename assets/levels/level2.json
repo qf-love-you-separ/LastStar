@@ -1,0 +1,29 @@
+{
+  "floors": [
+      {
+      "id": 1,
+      "x": 20,
+      "y": 0,
+      "bloom": false
+    },
+    {
+      "id": 1,
+      "x": 220,
+      "y": 0,
+      "bloom": false
+    },
+    {
+      "id": 3,
+      "x": 400,
+      "y": 40,
+      "bloom": false
+    },
+    {
+      "id": 2,
+      "x": 350,
+      "y": -200,
+      "bloom": true
+    }
+  ],
+  "background": "space-moon"
+}

@@ -1,0 +1,41 @@
+{
+  "floors": [
+    {
+      "id": 1,
+      "x": 0,
+      "y": 0,
+      "bloom": true
+    },
+    {
+      "id": 1,
+      "x": 200,
+      "y": 20,
+      "bloom": true
+    },
+    {
+      "id": 1,
+      "x": 400,
+      "y": 40,
+      "bloom": true
+    },
+        {
+      "id": 1,
+      "x": 600,
+      "y": 60,
+      "bloom": true
+    },
+        {
+      "id": 1,
+      "x": 800,
+      "y": 80,
+      "bloom": true
+    },
+        {
+      "id": 2,
+      "x": 1000,
+      "y": 100,
+      "bloom": true
+    }
+  ],
+  "background": "day-beach"
+}

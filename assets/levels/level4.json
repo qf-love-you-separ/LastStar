@@ -1,0 +1,35 @@
+{
+  "floors": [
+    {
+      "id": 1,
+      "x": 0,
+      "y": 0,
+      "bloom": false
+    },
+    {
+      "id": 3,
+      "x": 90,
+      "y": 100,
+      "bloom": false
+    },
+    {
+      "id": 1,
+      "x": 180,
+      "y": 40,
+      "bloom": false
+    },
+    {
+      "id": 1,
+      "x": 0,
+      "y": 300,
+      "bloom": false
+    },
+    {
+      "id": 2,
+      "x": 500,
+      "y": 320,
+      "bloom": true
+    }
+  ],
+  "background": "day-mountain"
+}

@@ -1,0 +1,100 @@
+{
+  "floors": [
+    {
+      "id": 1,
+      "x": 0,
+      "y": 0,
+      "bloom": true
+    },
+    {
+      "id": 1,
+      "x": 400,
+      "y": 0,
+      "bloom": true
+    },
+    {
+      "id": 1,
+      "x": 200,
+      "y": 100,
+      "bloom": true
+    },
+    {
+      "id": 1,
+      "x": 200,
+      "y": -100,
+      "bloom": true
+    }
+  ],
+  "floors_l": [
+      {
+      "id": 1,
+      "x": 800,
+      "y": 0,
+      "bloom": false
+    },
+    {
+      "id": 1,
+      "x": 1100,
+      "y": 40,
+      "bloom": false
+    },
+    {
+      "id": 1,
+      "x": 1400,
+      "y": 80,
+      "bloom": false
+    },
+    {
+      "id": 1,
+      "x": 1700,
+      "y": 120,
+      "bloom": false
+    },
+    {
+      "id": 2,
+      "x": 2000,
+      "y": 140,
+      "bloom": true
+    }
+  ],
+  "event": [
+    {
+      "type": "sleep",
+      "value": 1
+    },
+    {
+      "type": "white_boom"
+    },
+    {
+      "type": "sound",
+      "value": "piano-high"
+    },
+    {
+      "type": "sleep",
+      "value": 3
+    },
+    {
+      "type": "music",
+      "value": "living in moon"
+    },
+    {
+      "type": "music_volume",
+      "value": 1
+    },
+    {
+      "type": "play_music"
+    },
+    {
+      "type": "sevent",
+      "value": 1
+    },
+    {
+      "type": "show",
+      "value": 1
+    },
+    {
+      "type": "skin",
+      "value": 3
+    }
+  ]
+}
